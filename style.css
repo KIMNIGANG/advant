@@ -112,7 +112,6 @@ ul {
 .title {
   margin-top: 0px;
   margin-bottom: 300px;
-  opacity: 0.9;
 }
 
 .title h1 {
@@ -120,11 +119,20 @@ ul {
   color: white;
   font-size: 130px;
   font-family: "Satisfy", cursive;
+  margin-bottom: 0px;
+  opacity: 0.92;
+}
+.title h2 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  margin-top: -10px;
+  font-family: "Satisfy", cursive;
+  opacity: 0.92;
 }
 
 .title2 {
   text-align: center;
-  opacity: 0.9;
 }
 
 .title2 h2 {
